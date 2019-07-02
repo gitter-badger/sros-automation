@@ -1,5 +1,5 @@
 # SROS - Swarm Robotics Orchestration System
-A full stack for automating swarm robotics orchestration
+The system is intended to orchestrate automated systems 
 
 ## Drone Node (Worker Client)
 
@@ -11,7 +11,6 @@ A full stack for automating swarm robotics orchestration
 - STM32 based flight controller
 
 The nodes consist of an ESP32 based controller with an RN2483 transceiver.
-
 
 ## Gateway/Base station
 **Parts/Components**
