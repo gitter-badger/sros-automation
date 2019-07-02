@@ -1,4 +1,4 @@
-# tau swarm orchestration system
+# tau - Robotic Swarm Orchestration System
 A framework for automating swarm robotics orchestration
 
 ## Drone Node (Maestro Client)
