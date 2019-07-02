@@ -18,10 +18,13 @@ The nodes consist of an ESP32 based controller with an RN2483 transceiver.
 - LoRa Server OS (Operating System)
 - RAK2245 LoRa Gateway
 
-## Traffic Manager (Neural Network)
+## Orchestrator (Neural Network)
 Coming soon...
 
-## Automation Framework
+## Traffic Manager
+Coming soon...
+
+## Integration API
 Coming soon...
 
 ## Web Interface
