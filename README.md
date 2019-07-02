@@ -1,7 +1,7 @@
-# tau - Robotic Swarm Orchestration System
+# tau - Swarm Robotics Orchestration System
 A framework for automating swarm robotics orchestration
 
-## Drone Node (Maestro Client)
+## Drone Node (Worker Client)
 
 **Parts/Components:**
 
@@ -18,7 +18,7 @@ The nodes consist of an ESP32 based controller with an RN2483 transceiver.
 - LoRaServerOS (Operating System)
 - RAK2245 LoRa Gateway
 
-## Maestro Server (Neural Network)
+## Manager Server (Neural Network)
 Coming soon...
 
 ## Automation Framework
