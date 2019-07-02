@@ -1,4 +1,4 @@
-# tau - Swarm Robotics Orchestration System
+# SROS - Swarm Robotics Orchestration System
 A full stack for automating swarm robotics orchestration
 
 ## Drone Node (Worker Client)
