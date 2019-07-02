@@ -8,6 +8,7 @@ A full stack for automating swarm robotics orchestration
 - Espressif ESP32-WROOM-32U
 - Microchip RN2483 transceiver
 - uBlock MAX-7Q GPS module
+- STM32 based flight controller (iNAV or Cleanflight interface)
 
 The nodes consist of an ESP32 based controller with an RN2483 transceiver.
 
