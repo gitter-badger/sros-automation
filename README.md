@@ -8,7 +8,7 @@ A full stack for automating swarm robotics orchestration
 - Espressif ESP32-WROOM-32U
 - Microchip RN2483 transceiver
 - uBlock MAX-7Q GPS module
-- STM32 based flight controller (iNAV or Cleanflight interface)
+- STM32 based flight controller
 
 The nodes consist of an ESP32 based controller with an RN2483 transceiver.
 
@@ -16,7 +16,7 @@ The nodes consist of an ESP32 based controller with an RN2483 transceiver.
 ## Gateway/Base station
 **Parts/Components**
 - Raspberry Pi 4
-- LoRaServerOS (Operating System)
+- LoRa Server OS (Operating System)
 - RAK2245 LoRa Gateway
 
 ## Traffic Manager (Neural Network)
@@ -26,5 +26,9 @@ Coming soon...
 Coming soon...
 
 ## Web Interface
-Coming soon...
+**Flight Controller**
+- iNAV (https://github.com/iNavFlight/inav/wiki)
+- CleanFlight (https://github.com/cleanflight/cleanflight)
 
+**LoRa Gateway**
+- LoRa Server Interface (https://www.loraserver.io/)
