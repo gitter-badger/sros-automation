@@ -18,6 +18,7 @@ The nodes consist of an ESP32 based controller with an RN2483 transceiver.
 
 ## Gateway/Base station
 **Parts/Components**
+
 Custom LoRaWAN Gateway
 - Raspberry Pi 4
 - LoRa Server OS (Operating System)
