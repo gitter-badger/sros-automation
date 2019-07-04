@@ -18,6 +18,14 @@ The nodes consist of an ESP32 based controller with an RN2483 transceiver.
 
 ## Gateway/Base station
 **Parts/Components**
+<<<<<<< HEAD
+=======
+
+Custom LoRaWAN Gateway
+- Raspberry Pi 4
+- LoRa Server OS (Operating System)
+- RAK2245 LoRa Gateway
+>>>>>>> 60aa8a8c0971f4e8402cef0def30a6cdec7da28e
 
 ### Gateway
 - Heltec LoRa Gateway HT-M01 (https://www.amazon.co.uk/MakerHawk-Development-0-49inch-Bluetooth-Intelligent/dp/B07GTHTY6X/ref=sr_1_5?keywords=heltec&qid=1562141372&s=gateway&sr=8-5&th=1)
