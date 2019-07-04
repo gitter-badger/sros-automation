@@ -17,7 +17,6 @@ For LoRa (private network)
 The nodes consist of an ESP32 based controller with an RN2483 transceiver.
 
 ## Gateway/Base station
-**Parts/Components**
 
 ### Gateway
 - Heltec LoRa Gateway HT-M01 (https://www.amazon.co.uk/MakerHawk-Development-0-49inch-Bluetooth-Intelligent/dp/B07GTHTY6X/ref=sr_1_5?keywords=heltec&qid=1562141372&s=gateway&sr=8-5&th=1)
