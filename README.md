@@ -1,9 +1,9 @@
 # SROS - Swarm Robotics Orchestration System
 The system is intended to orchestrate automated systems 
 
-## Drone Node (Worker Client)
+## Worker Node (Client)
 
-**Parts/Components:**
+**IoT microNode**
 For LoRaWAN (IoT cloud)
 - Espressif ESP32-WROOM-32U
 - Microchip RN2483 transceiver
@@ -14,7 +14,9 @@ For LoRa (private network)
 - uBlock MAX-7Q GPS module
 - STM32 based flight controller
 
-The nodes consist of an ESP32 based controller with an RN2483 transceiver.
+**Semi-autonomous Node**
+
+NAVIO2 Raspberry Pi Hat for Rovers, Copters and Planes (https://emlid.com/navio/)
 
 ## Gateway/Base station
 
@@ -23,11 +25,15 @@ The nodes consist of an ESP32 based controller with an RN2483 transceiver.
 - RAK2245 LoRa Gateway (https://store.rakwireless.com/products/rak2245-pi-hat)
 
 ### Server
+
+**Custom LoRa Gateway**
 - Raspberry Pi 4 (https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
 - LoRa Server OS (https://www.loraserver.io/)
 
 ## Orchestrator (Neural Network)
-Coming soon...
+
+### Embedded Device
+- Nvidia Jetson Nano (https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
 
 ## Traffic Manager
 Coming soon...
