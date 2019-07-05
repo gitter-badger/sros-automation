@@ -4,6 +4,7 @@ The system is intended to orchestrate automated systems
 ## Worker Node (Client)
 
 **IoT microNode**
+
 For LoRaWAN (IoT cloud)
 - Espressif ESP32-WROOM-32U
 - Microchip RN2483 transceiver
