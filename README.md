@@ -14,7 +14,7 @@ For LoRa (private network)
 - uBlock MAX-7Q GPS module
 - STM32 based flight controller
 
-**Semi-autonomous Node**
+**ROS compadible - Semi-autonomous Node**
 
 NAVIO2 Raspberry Pi Hat for Rovers, Copters and Planes (https://emlid.com/navio/)
 
