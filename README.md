@@ -1,7 +1,7 @@
 # SROS - Swarm Robotics Orchestration System
 The system is intended to orchestrate automated systems 
 
-## Worker Node (Client)
+## Worker Node (Client) - Electron
 
 **IoT microNode**
 
@@ -19,7 +19,7 @@ For LoRa (private network)
 
 NAVIO2 Raspberry Pi Hat for Rovers, Copters and Planes (https://emlid.com/navio/)
 
-## Gateway/Base station
+## Gateway/Base station - Muon
 
 ### Gateway
 - Heltec LoRa Gateway HT-M01 (https://www.amazon.co.uk/MakerHawk-Development-0-49inch-Bluetooth-Intelligent/dp/B07GTHTY6X/ref=sr_1_5?keywords=heltec&qid=1562141372&s=gateway&sr=8-5&th=1)
@@ -31,7 +31,7 @@ NAVIO2 Raspberry Pi Hat for Rovers, Copters and Planes (https://emlid.com/navio/
 - Raspberry Pi 4 (https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
 - LoRa Server OS (https://www.loraserver.io/)
 
-## Orchestrator (Neural Network)
+## Orchestrator (Neural Network) - Tau
 
 ### Embedded Device
 - Nvidia Jetson Nano (https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
