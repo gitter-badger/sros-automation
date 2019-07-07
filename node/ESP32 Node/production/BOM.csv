@@ -1,59 +1,59 @@
-"Part","Value","Device","Package","Description","",
-"868MHZ_ANTENNA","SMA-J-P-H-ST-EM1","SMA-J-P-H-ST-EM1","SMA-J-P-H-ST-EM1","Connector SMA F 50Ohm Solder ST Edge Mount Gold Over Nickel Tray","",
-"C1","10uF","C-EUC0603","C0603","CAPACITOR, European symbol","",
-"C2","100nF","C-EUC0603","C0603","CAPACITOR, European symbol","",
-"C3","10uF","C-EUC0603","C0603","CAPACITOR, European symbol","",
-"C4","0.1uF","C-EUC0603","C0603","CAPACITOR, European symbol","",
-"C5","0.1uF","C-EUC0603","C0603","CAPACITOR, European symbol","",
-"C7","0.1uF","C-EUC0603","C0603","CAPACITOR, European symbol","",
-"C8","1uF","C-EUC0603","C0603","CAPACITOR, European symbol","",
-"C9","100nF","C-EUC0603","C0603","CAPACITOR, European symbol","",
-"C10","100nF","C-EUC0603","C0603","CAPACITOR, European symbol","",
-"C11","4.7uF","C-EUC0603","C0603","CAPACITOR, European symbol","",
-"C12","10nF","C-EUC0603","C0603","CAPACITOR, European symbol","",
-"C13","22pF","C-EUC0603","C0603","CAPACITOR, European symbol","",
-"C14","22uF","CPOL-EUC","PANASONIC_C","POLARIZED CAPACITOR, European symbol","",
-"C15","0.1uF","C-EUC0603","C0603","CAPACITOR, European symbol","",
-"C16","2.2uF","C-EUC0603","C0603","CAPACITOR, European symbol","",
-"C17","10uF","C-EUC0603","C0603","CAPACITOR, European symbol","",
-"C18","43pF","C-EUC0603","C0603","CAPACITOR, European symbol","",
-"C19","10uF","C-EUC0603","C0603","CAPACITOR, European symbol","",
-"C20","82pF","C-EUC0603","C0603","CAPACITOR, European symbol","",
-"C21","22uF","C-EUC0603","C0603","CAPACITOR, European symbol","",
-"C22","100pF","C-EUC0603","C0603","CAPACITOR, European symbol","",
-"C23","22uF","C-EUC0603","C0603","CAPACITOR, European symbol","",
-"D1","1.8V","DIODE-ZENER-DZ2J150M0L","PANASONIC_SMINI2-F5-B","Zener Diode","",
-"D2","6.8V","DIODE-ZENER-DZ2J150M0L","PANASONIC_SMINI2-F5-B","Zener Diode","",
-"D3","36V","DIODE-ZENER-DZ2J150M0L","PANASONIC_SMINI2-F5-B","Zener Diode","",
-"D4","15V","DIODE-ZENER-DZ2J150M0L","PANASONIC_SMINI2-F5-B","Zener Diode","",
-"D5","2.5V","DIODE-ZENER-DZ2J150M0L","PANASONIC_SMINI2-F5-B","Zener Diode","",
-"D6","3.3V","DIODE-ZENER-DZ2J150M0L","PANASONIC_SMINI2-F5-B","Zener Diode","",
-"D7","5V","DIODE-ZENER-DZ2J150M0L","PANASONIC_SMINI2-F5-B","Zener Diode","",
-"DATA_USB","47346-0001","47346-0001","MOLEX_47346-0001","CONN RCPT 5POS MICRO USB R/A  SMD","",
-"ESP32-WROOM-32U","ESP32-WROOM-32U","ESP32-WROOM-32U","XCVR_ESP32-WROOM-32U","Wi-Fi/BT BLE Module ESP32-D0WD SPI Flash UART U.FL Conn.","",
-"GPS1","MODULE-GPS-SMD-MAX-7Q-0(18P-9.6X10MM)","MODULE-GPS-SMD-MAX-7Q-0(18P-9.6X10MM)","GPS18P-SMD-1.1-10X9.6MM","317050009","",
-"GPS_ANTENNA","SMA-J-P-H-ST-EM1","SMA-J-P-H-ST-EM1","SMA-J-P-H-ST-EM1","Connector SMA F 50Ohm Solder ST Edge Mount Gold Over Nickel Tray","",
-"L1","4.2uH","L-USL4532P","L4532P","INDUCTOR, American symbol","",
-"L2","4.2uH","L-USL4532P","L4532P","INDUCTOR, American symbol","",
-"L3","8.2uH","L-USL4532P","L4532P","INDUCTOR, American symbol","",
-"L4","8.2uH","L-USL4532P","L4532P","INDUCTOR, American symbol","",
-"L5","10uH","L-USL4532P","L4532P","INDUCTOR, American symbol","",
-"POWER_USB","47346-0001","47346-0001","MOLEX_47346-0001","CONN RCPT 5POS MICRO USB R/A  SMD","",
-"Q1","","N-MOSFET-SO8S","SO-08","N-Channel MOSFET","",
-"R1","10kR","R-EU_R0603","R0603","RESISTOR, European symbol","",
-"R2","10R","R-EU_R0603","R0603","RESISTOR, European symbol","",
-"R3","100kR","R-EU_R0603","R0603","RESISTOR, European symbol","",
-"R4","1kR","R-EU_R0603","R0603","RESISTOR, European symbol","",
-"R5","18.2kR","R-EU_R0603","R0603","RESISTOR, European symbol","",
-"R6","53.6kR","R-EU_R0603","R0603","RESISTOR, European symbol","",
-"R7","31.6kR","R-EU_R0603","R0603","RESISTOR, European symbol","",
-"R8","31.6kR","R-EU_R0603","R0603","RESISTOR, European symbol","",
-"R9","10.2kR","R-EU_R0603","R0603","RESISTOR, European symbol","",
-"R10","21.5kR","R-EU_R0603","R0603","RESISTOR, European symbol","",
-"R11","10.2kR","R-EU_R0603","R0603","RESISTOR, European symbol","",
-"R12","12.7kR","R-EU_R0603","R0603","RESISTOR, European symbol","",
-"R13","10.2kR","R-EU_R0603","R0603","RESISTOR, European symbol","",
-"RN2483","RN2483-I/RM095","RN2483-I/RM095","MICROCHIP_RN2483-I/RM095","Sub-GHz Dual Band Long Range Transceiver LoRa Module","",
-"SD_CARD","DM3AT-SF-PEJM5","DM3AT-SF-PEJM5","HRS_DM3AT-SF-PEJM5","DM3 Series 8 Position Right Angle SMT Push Push Ejection MicroSD Card Connector","",
-"SWITCH_CONVERTER","LT3504IUFDPBF","LT3504IUFDPBF","QFN-28_UFD","","",
-"USB_TO_UART","FT232RL-REEL","FT232RL-REEL","SOP65P780X200-28N","USB to serial UART interface","",
+"Part","Value","Device","Package","Description"
+"868MHZ_ANTENNA","SMA-J-P-H-ST-EM1","SMA-J-P-H-ST-EM1","SMA-J-P-H-ST-EM1","Connector SMA F 50Ohm Solder ST Edge Mount Gold Over Nickel Tray"
+"C1","10uF","C-EUC0603","C0603","CAPACITOR, European symbol"
+"C2","100nF","C-EUC0603","C0603","CAPACITOR, European symbol" 
+"C3","10uF","C-EUC0603","C0603","CAPACITOR, European symbol" 
+"C4","0.1uF","C-EUC0603","C0603","CAPACITOR, European symbol" 
+"C5","0.1uF","C-EUC0603","C0603","CAPACITOR, European symbol" 
+"C7","0.1uF","C-EUC0603","C0603","CAPACITOR, European symbol" 
+"C8","1uF","C-EUC0603","C0603","CAPACITOR, European symbol" 
+"C9","100nF","C-EUC0603","C0603","CAPACITOR, European symbol" 
+"C10","100nF","C-EUC0603","C0603","CAPACITOR, European symbol" 
+"C11","4.7uF","C-EUC0603","C0603","CAPACITOR, European symbol" 
+"C12","10nF","C-EUC0603","C0603","CAPACITOR, European symbol" 
+"C13","22pF","C-EUC0603","C0603","CAPACITOR, European symbol" 
+"C14","22uF","CPOL-EUC","PANASONIC_C","POLARIZED CAPACITOR, European symbol" 
+"C15","0.1uF","C-EUC0603","C0603","CAPACITOR, European symbol" 
+"C16","2.2uF","C-EUC0603","C0603","CAPACITOR, European symbol" 
+"C17","10uF","C-EUC0603","C0603","CAPACITOR, European symbol" 
+"C18","43pF","C-EUC0603","C0603","CAPACITOR, European symbol" 
+"C19","10uF","C-EUC0603","C0603","CAPACITOR, European symbol" 
+"C20","82pF","C-EUC0603","C0603","CAPACITOR, European symbol" 
+"C21","22uF","C-EUC0603","C0603","CAPACITOR, European symbol" 
+"C22","100pF","C-EUC0603","C0603","CAPACITOR, European symbol" 
+"C23","22uF","C-EUC0603","C0603","CAPACITOR, European symbol" 
+"D1","1.8V","DIODE-ZENER-DZ2J150M0L","PANASONIC_SMINI2-F5-B","Zener Diode" 
+"D2","6.8V","DIODE-ZENER-DZ2J150M0L","PANASONIC_SMINI2-F5-B","Zener Diode" 
+"D3","36V","DIODE-ZENER-DZ2J150M0L","PANASONIC_SMINI2-F5-B","Zener Diode" 
+"D4","15V","DIODE-ZENER-DZ2J150M0L","PANASONIC_SMINI2-F5-B","Zener Diode" 
+"D5","2.5V","DIODE-ZENER-DZ2J150M0L","PANASONIC_SMINI2-F5-B","Zener Diode" 
+"D6","3.3V","DIODE-ZENER-DZ2J150M0L","PANASONIC_SMINI2-F5-B","Zener Diode" 
+"D7","5V","DIODE-ZENER-DZ2J150M0L","PANASONIC_SMINI2-F5-B","Zener Diode" 
+"DATA_USB","47346-0001","47346-0001","MOLEX_47346-0001","CONN RCPT 5POS MICRO USB R/A  SMD" 
+"ESP32-WROOM-32U","ESP32-WROOM-32U","ESP32-WROOM-32U","XCVR_ESP32-WROOM-32U","Wi-Fi/BT BLE Module ESP32-D0WD SPI Flash UART U.FL Conn." 
+"GPS1","MODULE-GPS-SMD-MAX-7Q-0(18P-9.6X10MM)","MODULE-GPS-SMD-MAX-7Q-0(18P-9.6X10MM)","GPS18P-SMD-1.1-10X9.6MM","317050009" 
+"GPS_ANTENNA","SMA-J-P-H-ST-EM1","SMA-J-P-H-ST-EM1","SMA-J-P-H-ST-EM1","Connector SMA F 50Ohm Solder ST Edge Mount Gold Over Nickel Tray" 
+"L1","4.2uH","L-USL4532P","L4532P","INDUCTOR, American symbol" 
+"L2","4.2uH","L-USL4532P","L4532P","INDUCTOR, American symbol" 
+"L3","8.2uH","L-USL4532P","L4532P","INDUCTOR, American symbol" 
+"L4","8.2uH","L-USL4532P","L4532P","INDUCTOR, American symbol" 
+"L5","10uH","L-USL4532P","L4532P","INDUCTOR, American symbol" 
+"POWER_USB","47346-0001","47346-0001","MOLEX_47346-0001","CONN RCPT 5POS MICRO USB R/A  SMD" 
+"Q1" "N-MOSFET-SO8S","SO-08","N-Channel MOSFET" 
+"R1","10kR","R-EU_R0603","R0603","RESISTOR, European symbol" 
+"R2","10R","R-EU_R0603","R0603","RESISTOR, European symbol" 
+"R3","100kR","R-EU_R0603","R0603","RESISTOR, European symbol" 
+"R4","1kR","R-EU_R0603","R0603","RESISTOR, European symbol" 
+"R5","18.2kR","R-EU_R0603","R0603","RESISTOR, European symbol" 
+"R6","53.6kR","R-EU_R0603","R0603","RESISTOR, European symbol" 
+"R7","31.6kR","R-EU_R0603","R0603","RESISTOR, European symbol" 
+"R8","31.6kR","R-EU_R0603","R0603","RESISTOR, European symbol" 
+"R9","10.2kR","R-EU_R0603","R0603","RESISTOR, European symbol" 
+"R10","21.5kR","R-EU_R0603","R0603","RESISTOR, European symbol" 
+"R11","10.2kR","R-EU_R0603","R0603","RESISTOR, European symbol" 
+"R12","12.7kR","R-EU_R0603","R0603","RESISTOR, European symbol" 
+"R13","10.2kR","R-EU_R0603","R0603","RESISTOR, European symbol" 
+"RN2483","RN2483-I/RM095","RN2483-I/RM095","MICROCHIP_RN2483-I/RM095","Sub-GHz Dual Band Long Range Transceiver LoRa Module" 
+"SD_CARD","DM3AT-SF-PEJM5","DM3AT-SF-PEJM5","HRS_DM3AT-SF-PEJM5","DM3 Series 8 Position Right Angle SMT Push Push Ejection MicroSD Card Connector" 
+"SWITCH_CONVERTER","LT3504IUFDPBF","LT3504IUFDPBF","QFN-28_UFD"
+"USB_TO_UART","FT232RL-REEL","FT232RL-REEL","SOP65P780X200-28N","USB to serial UART interface" 
