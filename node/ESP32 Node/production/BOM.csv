@@ -1,4 +1,4 @@
-"Part";"Value";"Device";"Package";"Description";"";
+"Part","Value","Device","Package","Description",""
 "868MHZ_ANTENNA";"SMA-J-P-H-ST-EM1";"SMA-J-P-H-ST-EM1";"SMA-J-P-H-ST-EM1";"Connector SMA F 50Ohm Solder ST Edge Mount Gold Over Nickel Tray";"";
 "C1";"10uF";"C-EUC0603";"C0603";"CAPACITOR, European symbol";"";
 "C2";"100nF";"C-EUC0603";"C0603";"CAPACITOR, European symbol";"";
