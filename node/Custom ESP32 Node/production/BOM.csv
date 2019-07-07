@@ -1,0 +1,4 @@
+ID, Manufacturer, Model, Active, Passive, Type, Price
+1, Microchip, RN2483, Yes, No, Transceiver, £13
+2, Espressif, ESP32-WROOM-32U, Yes, No, Microcontroller, £13
+3, uBlox, MAX-7Q, Yes, No, GPS, £15
