@@ -5,4 +5,4 @@ install:
     - pip install -r requirements.txt
 
 script:
-    - sros.py
+    - python3 sros.py
