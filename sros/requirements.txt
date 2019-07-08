@@ -1,0 +1,8 @@
+distro
+sys
+platform
+pandas
+ansible
+tensorflow
+ros
+wiringpi
