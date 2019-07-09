@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/alexantoniades/sros-automation.svg?branch=master)](https://travis-ci.org/alexantoniades/sros-automation)
+[![Build Status](https://travis-ci.org/alexantoniades/sros-automation.svg?branch=master)](https://travis-ci.org/alexantoniades/sros-automation) [![Join the chat at https://gitter.im/sros-automation/community](https://badges.gitter.im/sros-automation/community.svg)](https://gitter.im/sros-automation/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # SROS - Swarm Robotics Orchestration System
 The system is intended to orchestrate automated systems 
